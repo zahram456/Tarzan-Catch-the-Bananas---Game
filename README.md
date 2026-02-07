@@ -1,2 +1,2 @@
-# Tarzan-Catch-the-Bananas---Game
-Built a fullscreen Pygame arcade game (“Tarzan: Catch the Bananas”) with animated hazards, power-ups, multi-level difficulty scaling, audio effects, and persistent high-score tracking.
+# Tarzan-Catch-the-Bananas-Game
+Built a fullscreen Pygame arcade game (“Tarzan: Catch the Bananas”) featuring menu/settings screens, pause/restart flow, and persistent high-score tracking. Implemented randomized falling objects with collision detection, power-ups (golden bananas, hearts, shields), and dynamic difficulty scaling across jungle levels. Integrated sprite animation, background music, and sound effects with user toggles for audio control.
