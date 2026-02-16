@@ -1,1 +1,0 @@
-py -3.13 "d:/My projects/TarzanGame - Copy/main.py"
